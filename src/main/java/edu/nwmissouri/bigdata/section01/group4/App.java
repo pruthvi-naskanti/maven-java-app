@@ -21,8 +21,7 @@ public class App
 <<<<<<< HEAD
         
 =======
-        Squarenumberornot odd=new Squarenumberornot();
-        odd.OddNumberDetection();
+        
 
 >>>>>>> 23693680938743d2cc8369c9fdb9566c359b0647
     }
